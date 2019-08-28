@@ -8,7 +8,7 @@ I made this game when I was 15 at a two week summer camp at Vassar College calle
 FAQ
 Where is the source code?
 
-I built this game using a school issued laptop that I no longer have access to. Unfortunately I did not transfer the source code so it's gone forever.
+I built this game during a summer camp at Vassar College and I no longer have access to the source code.
 
 What the features of the game?
 
@@ -21,3 +21,10 @@ Some files exceed the 100 mb file limit set by GitHub
 Where can I see more projects?
 
 You can find the rest of my projects at https://RobCraig.me
+
+# Images
+![image1](couchpic1web.jpg)
+![image2](couchpic2web.jpg)
+![image3](couchpic3web.jpg)
+![image4](couchpic4web.jpg)
+![image5](couchpic5web.jpg)
